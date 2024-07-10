@@ -1,4 +1,4 @@
-// This will add a new feature in the future
+// This will add a new feature in the future that will allow to create a new form
 
 const express = require('express');
 const app = express();
